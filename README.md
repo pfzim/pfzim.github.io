@@ -1,3 +1,3 @@
 # pfzim.github.io
 
-https://github.com/pfzim/ldap-phonebook
+(https://github.com/pfzim/ldap-phonebook)
