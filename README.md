@@ -1,3 +1,3 @@
 # pfzim.github.io
 
-(https://github.com/pfzim/ldap-phonebook)
+[Телефонный справочник / LDAP Phonebook](https://github.com/pfzim/ldap-phonebook)
